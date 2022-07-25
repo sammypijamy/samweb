@@ -1,3 +1,43 @@
+h2 {
+font-family: Georgia, serif;
+font-size: 40px;
+letter-spacing: 3.2px;
+word-spacing: 0.6px;
+color: #ffffff;
+font-weight: 400;
+font-style: normal;
+font-variant: small-caps;
+text-transform: lowercase;
+margin: left 400px;
+}
+
 body {
-    background: lavender;
+    background: #999999;
+}        
+
+h1 {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    letter-spacing: 3.2px;
+    word-spacing: 0.6px;
+    color: #000000;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+
+}
+
+  p {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    letter-spacing: 3.2px;
+    word-spacing: 0.6px;
+    color: #000000;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+    text-align: justify;
+
   }
